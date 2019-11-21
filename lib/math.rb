@@ -31,3 +31,5 @@ modulo(34, 5)
 def square_root(num)
   puts Math.sqrt(num)
 end
+
+square_root
